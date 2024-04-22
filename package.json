@@ -71,7 +71,8 @@
     "vue": "^3.4.21",
     "vue-router": "^4.3.0",
     "vue-tippy": "^6.4.1",
-    "vue-types": "^5.1.1"
+    "vue-types": "^5.1.1",
+    "@microsoft/signalr": "8.0.0"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.2.1",
